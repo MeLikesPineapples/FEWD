@@ -24,3 +24,4 @@ const louisa = {
 };
 
 louisa.talk();
+louisa.showPets();
